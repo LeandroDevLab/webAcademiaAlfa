@@ -92,7 +92,7 @@
   border-radius: 20px;
   overflow: none;
   height: 70vh;
-  background-image: url(/src/assets/images/img_home_vertical.png);
+  background-image: url('../images/img_home_vertical.png');
   background-size: cover;
   background-position: 0 -39px; /* [horizontal] [vertical] */
   box-shadow: 5px 5px 15px #000;
@@ -199,7 +199,7 @@ footer img:hover {
 
   /* home */
   #home .img__home {
-    background-image: url(/src/assets/images/img_home_horizontal.png);
+    background-image: url('../images/img_home_horizontal.png');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
